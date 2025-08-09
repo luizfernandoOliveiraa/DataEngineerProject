@@ -46,8 +46,8 @@ Um script Python que:
 ### 1. Clone o Repositório
 
 ```bash
-1.  git clone <URL_DO_REPOSITORIO>
-    cd DwProject
+1.  git clone <https://github.com/luizfernandoOliveiraa/DataEngineerProject.git>
+    cd DataEngineerProject
 ```
 
 ### 2. Instalar Dependências com Poetry
@@ -115,3 +115,4 @@ DwProject/
     Pandas
     Uvicorn
     Poetry
+
